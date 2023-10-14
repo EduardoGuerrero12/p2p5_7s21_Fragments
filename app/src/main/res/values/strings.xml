@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">p2p5_7s21</string>
+    <string name="Titulop1">Manejo de fragments</string>
+    <string name="btn1p1">Pantalla 1</string>
+    <string name="btn2p1">Pantalla 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f1titulo">Estamos en el primer Fragment</string>
+    <string name="f2titulo">Estamos en el segundo Fragment</string>
+</resources>
